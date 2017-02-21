@@ -6,8 +6,8 @@
       "name": "colorm",
       "title": "ColorM",
       "styling": {
-        "primaryColor": "#edc6fd",
-        "buttonsColor": "#000000",
+        "primaryColor": "#936faf",
+        "buttonsColor": "#ffffff",
         "secondaryColor": "#9b59b6",
         "successColor": "#2ecc71",
         "infoColor": "#3498db",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 12,
+    "uniqCompNum": 13,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -110,6 +110,47 @@
           "articleLayout": false,
           "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrow-left.png\">",
           "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">"
+        },
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700",
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#fff",
+              "text-transform": "uppercase",
+              "margin-bottom": "0"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call3",
+          "_anchor": "call3-c",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColor": "#351c40",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#e74c3c",
+            "showText": true,
+            "showTitle": true,
+            "showButtons": true
+          },
+          "text": "Develop fully responsive, mobile-ready websites",
+          "title": "BEAUTIFUL MOBILE WEBSITES",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\">see live demo</a>"
         },
         {
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
