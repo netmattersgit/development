@@ -707,14 +707,40 @@ blockquote {
   font-family: 'Ubuntu', sans-serif;
 }
 /*end colorM*/
-#call3-c .display-1 {
+#features15-k .mbr-section-title {
   font-weight: 700;
+  text-align: center;
+}
+#features15-k .display-6 {
+  text-transform: none;
+  letter-spacing: 0px;
+  font-weight: 400;
   color: #fff;
 }
-#call3-c .lead {
+#features15-k .mbr-cards-row {
+  margin-top: 40px;
+}
+#features15-k P {
+  font-size: 20px;
+}
+#features15-k .display-5 {
+  font-size: 48px;
+  text-align: left;
+}
+#pricing-table1-m .mbr-section__container .mbr-section-title {
   color: #fff;
-  text-transform: uppercase;
-  margin-bottom: 0;
+}
+#pricing-table1-m .mbr-section__container .mbr-section-subtitle {
+  color: #ffffff;
+}
+#pricing-table1-m H1 {
+  color: #ffffff;
+}
+#pricing-table1-m .mbr-price-figure {
+  font-size: 60px;
+}
+#pricing-table1-m .mbr-price-term {
+  font-size: 60px;
 }
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
@@ -782,5 +808,5 @@ blockquote {
 }
 #menu-3 .link[aria-expanded="true"],
 #menu-3 .dropdown-item[aria-expanded="true"] {
-  color: #edc6fd!important;
+  color: #936faf!important;
 }
