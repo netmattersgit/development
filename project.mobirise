@@ -150,7 +150,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3w-situ-600x390.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -159,13 +159,13 @@
               "linkInNewWindow": false
             }
           },
-          "person1": "Jim Morrison",
-          "subtitle1": "DEVELOPER",
-          "caption1": "Data Centers have gained importance with hyper connectivity. To handle .",
+          "person1": "3W",
+          "subtitle1": "Architects",
+          "caption1": "3W is an award-winning, design-led architectural practice with offices in London and Bristol.&nbsp;<span style=\"font-size: 1rem; line-height: 1.5;\">The practice has extensive experience of varying sectors including residential, very sheltered housing, social housing, commercial office, education, retail and leisure.</span><br>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ndiver-situ-1-600x390.jpg",
               "class": "features-img",
               "width": 600,
               "link": "",
@@ -174,29 +174,37 @@
               "linkInNewWindow": false
             }
           },
-          "person2": "Eva Habermann",
-          "subtitle2": "DESIGNER",
-          "caption2": "When the aim is to develop an entertaining and fun game app, it is essential for .",
-          "person3": "Barry Bostwick",
-          "subtitle3": "DESIGNER",
-          "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
+          "person2": "Northern Diver",
+          "subtitle2": "Online Retailer",
+          "caption2": "Northern Diver's reputation as one of the world's elite drysuit manufacturers and diving equipment manufacturers has its roots in our genuine love of diving. It's only because we understand divers’ needs for both made to measure and off-the-peg drysuits, as well as everything else.",
+          "person3": "Corkers Crisps",
+          "subtitle3": "Food Manufacturers",
+          "caption3": "At Corkers, we do things differently. We even have our very own potato – the Naturalo potato is only grown on our farm in the rich peaty Cambridgeshire fens. It is the perfect frying potato and its what gives Corkers their unique flavour and crunch.",
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face3.png",
+              "src": "@PROJECT_PATH@/assets/images/corkers-situ-600x390.jpg",
               "class": "features-img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "person4": "Anna Cameron",
-          "subtitle4": "PHOTOGRAPHER",
-          "caption4": "Every year more than four million traffic lights use an estimated three billion .",
+          "person4": "Farnell Clarke",
+          "subtitle4": "Chartered Accountants",
+          "caption4": "Farnell Clarke is an award winning national firm of chartered certified accountants practice working from offices in Norwich, London and Lowestoft. As you would expect, our team is experienced and well qualified: we know our business and are committed to delivering a professional service.",
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face4.png",
+              "src": "@PROJECT_PATH@/assets/images/farnell-situ-600x390.jpg",
               "class": "features-img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           }
         },
