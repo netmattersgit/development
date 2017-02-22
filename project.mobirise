@@ -54,8 +54,8 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/slider01.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1333.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "overlay": true,
@@ -84,7 +84,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/slider03.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
