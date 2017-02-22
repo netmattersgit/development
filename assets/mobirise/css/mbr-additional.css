@@ -737,10 +737,24 @@ blockquote {
   color: #ffffff;
 }
 #pricing-table1-m .mbr-price-figure {
-  font-size: 60px;
+  font-size: 48px;
 }
 #pricing-table1-m .mbr-price-term {
   font-size: 60px;
+}
+#form1-11 .mbr-section-subtitle {
+  text-transform: uppercase;
+  color: #ffffff;
+  font-size: 30px;
+}
+#form1-11 .form-control-label {
+  color: undefined;
+}
+#form1-11 .mbr-section-title {
+  color: #ffffff;
+}
+#form1-11 .mbr-section-text {
+  color: #ffffff;
 }
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;

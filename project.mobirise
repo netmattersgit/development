@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 34,
+    "uniqCompNum": 39,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -112,6 +112,95 @@
           "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">"
         },
         {
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "team1",
+          "_anchor": "team1-1",
+          "_params": {
+            "rows": "2",
+            "bgItem1": "#f5f5f5",
+            "bgItem2": "#ffc80a",
+            "bgItem3": "#d2dde4",
+            "bgItem4": "#212121",
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubtitle": false
+          },
+          "title": "Our Team",
+          "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x399.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "person1": "Jim Morrison",
+          "subtitle1": "DEVELOPER",
+          "caption1": "Data Centers have gained importance with hyper connectivity. To handle .",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x399.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "person2": "Eva Habermann",
+          "subtitle2": "DESIGNER",
+          "caption2": "When the aim is to develop an entertaining and fun game app, it is essential for .",
+          "person3": "Barry Bostwick",
+          "subtitle3": "DESIGNER",
+          "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face3.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "person4": "Anna Cameron",
+          "subtitle4": "PHOTOGRAPHER",
+          "caption4": "Every year more than four million traffic lights use an estimated three billion .",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face4.png",
+              "class": "features-img",
+              "width": 600
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title": {
               "font-weight": "700",
@@ -194,7 +283,7 @@
               "color": "#ffffff"
             },
             ".mbr-price-figure": {
-              "font-size": "60px"
+              "font-size": "48px"
             },
             ".mbr-price-term": {
               "font-size": "60px"
@@ -226,7 +315,7 @@
             "showButtons": true,
             "secondType": "",
             "thirdType": "",
-            "fourthType": "hidden"
+            "fourthType": ""
           },
           "title": "Options To Suit Every Business",
           "subtitle": " This new-found knowledge may then be used by engineers to create new tools and machines.",
@@ -252,133 +341,83 @@
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>50</b> Projects</li><li class=\"list-group-item\"><b>100</b> Images</li><li class=\"list-group-item\"><b>24/7</b> Support</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">find out more</a>",
           "label4": "POPULAR",
-          "title4": "ULTIMATE PLAN",
-          "currency4": "$",
-          "price4": "190",
-          "period4": "/mo",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Unlimited</b> Projects</li><li class=\"list-group-item\"><b>Unlimited</b> Images</li><li class=\"list-group-item\"><b>24/7</b> Support</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>"
+          "title4": "",
+          "currency4": "",
+          "price4": "Branding<br>Marketing",
+          "period4": "",
+          "list4": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 40px;\"><b>Competitor Benchmarking</b></span><br><li class=\"list-group-item\"><b>Acquire &gt; Engage &gt; Convert</b></li><li class=\"list-group-item\"><b>Onsite and Offsite Tactics</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">find out more</a>"
         },
         {
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/features/03.jpg",
-              "class": ""
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "color": "#ffffff",
+              "font-size": "30px"
+            },
+            ".form-control-label": {},
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
             }
           },
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials3",
-          "_anchor": "testimonials3-x",
+          "_name": "form1",
+          "_anchor": "form1-11",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1324.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1028.jpg",
             "bgColor": "#ecf0f1",
             "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
-            },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0",
-            "overlayColor": "#9b59b6",
-            "bgCardImage": "@PROJECT_PATH@/assets/images/boy.jpg",
-            "showText": true,
-            "showTitle": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
             "showSubtitle": true,
-            "showButtons": false
+            "showTitle": true,
+            "showText": true
           },
-          "text": "\"First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap theme design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world\"",
-          "title": "PANAJOT JELEV",
-          "subtitle": "Head of Online Communication  at Swisscom",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
-          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png"
-        },
-        {
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "team1",
-          "_anchor": "team1-1",
-          "_params": {
-            "rows": "2",
-            "bgItem1": "#f5f5f5",
-            "bgItem2": "#ffc80a",
-            "bgItem3": "#d2dde4",
-            "bgItem4": "#212121",
-            "paddingTop": "0",
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
-            "bgColor": "#ecf0f1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+          "subtitle": "Let's catch up for a coffee",
+          "title": "<b>(01603) 515 007</b>",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
+          "form": {
+            "action": "emarketinghut@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
             },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showSubtitle": false
-          },
-          "title": "Our Team",
-          "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face1.png",
-              "class": "features-img",
-              "width": 600
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
             }
           },
-          "person1": "Jim Morrison",
-          "subtitle1": "DEVELOPER",
-          "caption1": "Data Centers have gained importance with hyper connectivity. To handle .",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face2.png",
-              "class": "features-img",
-              "width": 600
-            }
-          },
-          "person2": "Eva Habermann",
-          "subtitle2": "DESIGNER",
-          "caption2": "When the aim is to develop an entertaining and fun game app, it is essential for .",
-          "person3": "Barry Bostwick",
-          "subtitle3": "DESIGNER",
-          "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face3.png",
-              "class": "features-img",
-              "width": 600
-            }
-          },
-          "person4": "Anna Cameron",
-          "subtitle4": "PHOTOGRAPHER",
-          "caption4": "Every year more than four million traffic lights use an estimated three billion .",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face4.png",
-              "class": "features-img",
-              "width": 600
-            }
-          }
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_styles": {
@@ -477,7 +516,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Approach</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Results</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#team1-1\">Team</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Creations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Approach</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mdi-notification-phone-forwarded mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px;\"></span>(01603) 515 007</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
         }
       ]
     }
