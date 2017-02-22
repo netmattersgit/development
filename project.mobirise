@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -51,6 +51,101 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/slider01.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "FULL SCREEN SLIDER",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider02.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "IMAGE SLIDE",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/slider03.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "VIDEO SLIDE",
+                "showText": true,
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider04.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "FULL SCREEN SLIDER",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider05.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "IMAGE SLIDE",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-n",
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrow-left.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "timeout": "3",
             "slides": [
               {
@@ -67,7 +162,7 @@
                 "showText": true,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": true,
@@ -83,7 +178,7 @@
                 "showText": true,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
@@ -99,7 +194,7 @@
                 "showText": true,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": true,
