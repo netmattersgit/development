@@ -112,77 +112,6 @@
           "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">"
         },
         {
-          "_styles": {
-            ".mbr-section-title": {
-              "font-weight": "700",
-              "text-align": "center"
-            },
-            ".display-6": {
-              "text-transform": "none",
-              "letter-spacing": "0px",
-              "font-weight": "400",
-              "color": "#fff"
-            },
-            ".mbr-cards-row": {
-              "margin-top": "40px"
-            },
-            "P": {
-              "font-size": "20px"
-            },
-            ".display-5": {
-              "font-size": "48px",
-              "text-align": "left"
-            }
-          },
-          "title1": "Bootstrap 4",
-          "title2": "Responsive",
-          "title3": "Web Fonts",
-          "title4": "Unlimited Sites",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features15",
-          "_anchor": "features15-k",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/features/01.jpg",
-            "bgColor": "#434350",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#434350",
-            "showTitle": true,
-            "showImages": true,
-            "columns": 3,
-            "showTitles": true,
-            "ShowTexts": true
-          },
-          "title": "Our 3-Step Process Enables Us to Create Websites Which As Well As Being Beautifly Designed, Translate Into Real Business For You.",
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb7.png",
-              "class": "card-img-top",
-              "active": true
-            }
-          },
-          "subtitle1": "Define",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "subtitle2": "Design",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "subtitle3": "Deploy",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app."
-        },
-        {
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
@@ -278,6 +207,77 @@
               "linkInNewWindow": false
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700",
+              "text-align": "center"
+            },
+            ".display-6": {
+              "text-transform": "none",
+              "letter-spacing": "0px",
+              "font-weight": "400",
+              "color": "#fff"
+            },
+            ".mbr-cards-row": {
+              "margin-top": "40px"
+            },
+            "P": {
+              "font-size": "20px"
+            },
+            ".display-5": {
+              "font-size": "48px",
+              "text-align": "left"
+            }
+          },
+          "title1": "Bootstrap 4",
+          "title2": "Responsive",
+          "title3": "Web Fonts",
+          "title4": "Unlimited Sites",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features15",
+          "_anchor": "features15-k",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/01.jpg",
+            "bgColor": "#434350",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#434350",
+            "showTitle": true,
+            "showImages": true,
+            "columns": 3,
+            "showTitles": true,
+            "ShowTexts": true
+          },
+          "title": "Our 3-Step Process Enables Us to Create Websites Which As Well As Being Beautifly Designed, Translate Into Real Business For You.",
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb7.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "subtitle1": "Define",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "subtitle2": "Design",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle3": "Deploy",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app."
         },
         {
           "_styles": {
