@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 41,
+    "uniqCompNum": 48,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -279,9 +279,13 @@
           "title": "Our 3-Step Process Enables Us to Create Websites Which As Well As Being Beautifly Designed, Translate Into Real Business For You.",
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb7.png",
+              "src": "@PROJECT_PATH@/assets/images/process-599x198.png",
               "class": "card-img-top",
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "subtitle1": "Define",
@@ -366,28 +370,28 @@
           "price1": "Stylish&nbsp;Websites",
           "period1": "",
           "list1": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 40px;\">Fully Responsive</span><br><li class=\"list-group-item\"><b>20</b> Images</li><li class=\"list-group-item\"><b>9/5</b> Support</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>find out more</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>\u001b\u001b\u001b\u001bLets talk</a>",
           "label2": "POPULAR",
           "title2": "",
           "currency2": "",
           "price2": "Mobile&nbsp;Apps<br>",
           "period2": "",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Always Available</li><li class=\"list-group-item\">Customer Engagement</li><li class=\"list-group-item\">12/7 Support</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>find out more</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Lets Talk</a>",
           "label3": "POPULAR",
           "title3": "",
           "currency3": "",
           "price3": "eCommerce&nbsp;Stores<br>",
           "period3": "",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Secure and Scalable</li><li class=\"list-group-item\">Stock Management</li><li class=\"list-group-item\">Customer Profiling/Retargeting</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>find out more</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Lets Talk</a>",
           "label4": "POPULAR",
           "title4": "",
           "currency4": "",
           "price4": "Branding &amp; Marketing",
           "period4": "",
           "list4": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 40px;\">Competitor Benchmarking</span><br><li class=\"list-group-item\">Acquire &gt; Engage &gt; Convert</li><li class=\"list-group-item\">Onsite and Offsite Tactics</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>find out more</a>"
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Lets Talk</a>"
         },
         {
           "_styles": {
