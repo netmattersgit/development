@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 39,
+    "uniqCompNum": 41,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -67,7 +67,7 @@
                 "showText": true,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {
                 "active": false,
@@ -83,7 +83,7 @@
                 "showText": true,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {
                 "active": true,
@@ -99,7 +99,7 @@
                 "showText": true,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>creations</a> "
               }
             ],
             "fullScreen": true,
@@ -128,8 +128,8 @@
             "bgItem2": "#ffc80a",
             "bgItem3": "#d2dde4",
             "bgItem4": "#212121",
-            "paddingTop": "0",
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
@@ -142,10 +142,10 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": false,
-            "showSubtitle": false
+            "showTitle": true,
+            "showSubtitle": true
           },
-          "title": "Our Team",
+          "title": "Some of our Creations",
           "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
           "media1": {
             "image": {
@@ -207,6 +207,20 @@
               "linkInNewWindow": false
             }
           }
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-14",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Our Approach</a> "
         },
         {
           "_styles": {
@@ -280,21 +294,40 @@
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app."
         },
         {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-13",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#434350"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Our Services</a> "
+        },
+        {
           "_styles": {
             ".mbr-section__container .mbr-section-title": {
               "color": "#fff"
             },
             ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "right"
             },
             "H1": {
               "color": "#ffffff"
             },
             ".mbr-price-figure": {
-              "font-size": "48px"
+              "font-size": "21px",
+              "text-align": "center"
             },
             ".mbr-price-term": {
               "font-size": "60px"
+            },
+            "UL": {
+              "text-align": "center"
             }
           },
           "_tags": [
@@ -303,7 +336,7 @@
           "_name": "pricing-table1",
           "_anchor": "pricing-table1-m",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "1",
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
@@ -325,36 +358,36 @@
             "thirdType": "",
             "fourthType": ""
           },
-          "title": "Options To Suit Every Business",
-          "subtitle": " This new-found knowledge may then be used by engineers to create new tools and machines.",
+          "title": "Options To Suit Every Business<br><br>",
+          "subtitle": " This <b>new-found knowledge </b>may then be used by engineers to create new tools and machines.",
           "label1": "POPULAR",
           "title1": "",
           "currency1": "",
-          "price1": "Stylish<br>Websites",
+          "price1": "Stylish&nbsp;Websites",
           "period1": "",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>5</b> Projects</li><li class=\"list-group-item\"><b>20</b> Images</li><li class=\"list-group-item\"><b>9/5</b> Support</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">find out more</a>",
+          "list1": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 40px;\">Fully Responsive</span><br><li class=\"list-group-item\"><b>20</b> Images</li><li class=\"list-group-item\"><b>9/5</b> Support</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>find out more</a>",
           "label2": "POPULAR",
           "title2": "",
           "currency2": "",
-          "price2": "Mobile<br>Apps<br>",
+          "price2": "Mobile&nbsp;Apps<br>",
           "period2": "",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>10</b> Projects</li><li class=\"list-group-item\"><b>40</b> Images</li><li class=\"list-group-item\"><b>12/7</b> Support</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">find out more</a>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Always Available</li><li class=\"list-group-item\">Customer Engagement</li><li class=\"list-group-item\">12/7 Support</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>find out more</a>",
           "label3": "POPULAR",
           "title3": "",
           "currency3": "",
-          "price3": "eCommerce<br>Stores<br>",
+          "price3": "eCommerce&nbsp;Stores<br>",
           "period3": "",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>50</b> Projects</li><li class=\"list-group-item\"><b>100</b> Images</li><li class=\"list-group-item\"><b>24/7</b> Support</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">find out more</a>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Secure and Scalable</li><li class=\"list-group-item\">Stock Management</li><li class=\"list-group-item\">Customer Profiling/Retargeting</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>find out more</a>",
           "label4": "POPULAR",
           "title4": "",
           "currency4": "",
-          "price4": "Branding<br>Marketing",
+          "price4": "Branding &amp; Marketing",
           "period4": "",
-          "list4": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 40px;\"><b>Competitor Benchmarking</b></span><br><li class=\"list-group-item\"><b>Acquire &gt; Engage &gt; Convert</b></li><li class=\"list-group-item\"><b>Onsite and Offsite Tactics</b></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">find out more</a>"
+          "list4": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 40px;\">Competitor Benchmarking</span><br><li class=\"list-group-item\">Acquire &gt; Engage &gt; Convert</li><li class=\"list-group-item\">Onsite and Offsite Tactics</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>find out more</a>"
         },
         {
           "_styles": {

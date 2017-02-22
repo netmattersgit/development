@@ -732,15 +732,20 @@ blockquote {
 }
 #pricing-table1-m .mbr-section__container .mbr-section-subtitle {
   color: #ffffff;
+  text-align: right;
 }
 #pricing-table1-m H1 {
   color: #ffffff;
 }
 #pricing-table1-m .mbr-price-figure {
-  font-size: 48px;
+  font-size: 21px;
+  text-align: center;
 }
 #pricing-table1-m .mbr-price-term {
   font-size: 60px;
+}
+#pricing-table1-m UL {
+  text-align: center;
 }
 #form1-11 .mbr-section-subtitle {
   text-transform: uppercase;
