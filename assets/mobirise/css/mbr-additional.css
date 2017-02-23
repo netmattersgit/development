@@ -1,6 +1,19 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -707,23 +720,35 @@ blockquote {
   font-family: 'Ubuntu', sans-serif;
 }
 /*end colorM*/
+#slider-b .mbr-section-text {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+}
+#slider-b .mbr-section-title {
+  font-family: 'Ubuntu', sans-serif;
+}
 #team1-1 .title1 {
   font-size: 36px;
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
 }
 #team1-1 .title2 {
   font-size: 36px;
+  font-family: 'Ubuntu', sans-serif;
 }
 #team1-1 .title3 {
   font-size: 36px;
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
 }
 #team1-1 .title4 {
   font-size: 36px;
+  font-family: 'Ubuntu', sans-serif;
 }
 #team1-1 H1 {
   font-size: 60px;
   color: #333333;
+  font-family: 'Ubuntu', sans-serif;
 }
 #team1-1 H3 {
   color: #333333;
@@ -753,9 +778,12 @@ blockquote {
 #content3-2e H3 {
   color: #ffffff;
   font-size: 60px;
+  font-family: 'Ubuntu', sans-serif;
 }
 #content3-2e P {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #features15-k .mbr-section-title {
   font-weight: 700;
@@ -779,6 +807,7 @@ blockquote {
 #features15-k .display-5 {
   font-size: 48px;
   text-align: left;
+  font-family: 'Ubuntu', sans-serif;
 }
 #pricing-table1-2d .mbr-section__container .mbr-section-title {
   color: #fff;
@@ -788,10 +817,15 @@ blockquote {
 }
 #pricing-table1-2d .mbr-price-figure {
   font-size: 48px;
+  font-family: 'Ubuntu', sans-serif;
 }
 #pricing-table1-2d H1 {
   color: #ffffff;
   font-size: 60px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#pricing-table1-2d .mbr-plan-title {
+  font-family: 'Open Sans', sans-serif;
 }
 #content3-1k .mbr-section-title,
 #content3-1k .mbr-section-subtitle {
@@ -800,6 +834,7 @@ blockquote {
 #content3-1k H3 {
   font-size: 60px;
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
 }
 #content3-1k P {
   color: #e67e22;
@@ -838,7 +873,7 @@ blockquote {
 #menu-3 .link,
 #menu-3 .dropdown-item {
   color: #ffffff;
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 #menu-3 .link {
   font-size: 1.25rem;

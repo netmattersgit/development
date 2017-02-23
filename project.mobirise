@@ -65,9 +65,9 @@
                 "showTitle": true,
                 "title": "Stylish Websites",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "For business looking to make a strong impression.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Creations</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"#team1-1\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Creations</a> "
               },
               {
                 "active": false,
@@ -81,7 +81,7 @@
                 "showTitle": true,
                 "title": "Mobile Apps",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "For business looking to target people on the go.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>creations</a> "
               },
@@ -97,7 +97,7 @@
                 "showTitle": true,
                 "title": "eCommerce Stores",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "For business looking to sell goods over the internet.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>creations</a> "
               }
@@ -109,7 +109,18 @@
           "_anchor": "slider-b",
           "articleLayout": false,
           "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrow-left.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">"
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "25px"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
         },
         {
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
@@ -124,21 +135,31 @@
           "_styles": {
             ".title1": {
               "font-size": "36px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
             ".title2": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
             ".title3": {
               "font-size": "36px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
             ".title4": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
             "H1": {
               "font-size": "60px",
-              "color": "#333333"
+              "color": "#333333",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
             "H3": {
               "color": "#333333"
@@ -174,7 +195,7 @@
             "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#dddddd",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -259,9 +280,9 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "bgColor": "#dddddd"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Approach</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#content3-2e\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Approach</a> "
         },
         {
           "_styles": {
@@ -270,10 +291,15 @@
             },
             "H3": {
               "color": "#ffffff",
-              "font-size": "60px"
+              "font-size": "60px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -313,7 +339,9 @@
             },
             ".display-5": {
               "font-size": "48px",
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
           },
           "title1": "Bootstrap 4",
@@ -380,7 +408,7 @@
             "paddingBottom": "2",
             "bgColor": "#333333"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Services</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#pricing-table1-2d\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Services</a> "
         },
         {
           "_styles": {
@@ -391,11 +419,19 @@
               "color": "#ffffff"
             },
             ".mbr-price-figure": {
-              "font-size": "48px"
+              "font-size": "48px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
             "H1": {
               "color": "#ffffff",
-              "font-size": "60px"
+              "font-size": "60px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".mbr-plan-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_tags": [
@@ -433,29 +469,29 @@
           "currency1": "",
           "price1": "Websites",
           "period1": "",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Mobile Friendly</b></li><li class=\"list-group-item\"><b>Search Ready</b></li><li class=\"list-group-item\"><b>Performance Driven</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">Lets Talk</a>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Mobile Friendly</li><li class=\"list-group-item\">Search Ready</li><li class=\"list-group-item\">Performance Driven</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"#content3-1k\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">Lets Talk</a>",
           "label2": "POPULAR",
           "title2": "Mobile",
           "currency2": "",
           "price2": "Apps",
           "period2": "",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Available Everywhere</b></li><li class=\"list-group-item\"><b>Cross Platform</b></li><li class=\"list-group-item\"><b>UX Centric&nbsp;</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">LETS TALK</a>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Available Everywhere</li><li class=\"list-group-item\">Cross Platform</li><li class=\"list-group-item\">UX Centric&nbsp;</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"#content3-1k\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">LETS TALK</a>",
           "label3": "POPULAR",
           "title3": "eCommerce",
           "currency3": "",
           "price3": "Stores",
           "period3": "",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Secure and Scalable</b></li><li class=\"list-group-item\"><b>Stock Management</b></li><li class=\"list-group-item\"><b>Customer Profiling/Retargeting</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">LETS TALK</a>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Secure and Scalable</li><li class=\"list-group-item\">Stock Management</li><li class=\"list-group-item\">Customer Profiling/Retargeting</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"#content3-1k\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">LETS TALK</a>",
           "label4": "POPULAR",
           "title4": "Outreach",
           "currency4": "",
           "price4": "Marketing",
           "period4": "",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Competitor Benchmarking</b></li><li class=\"list-group-item\"><b>Acquire &gt; Engage &gt; Convert</b></li><li class=\"list-group-item\"><b>Onsite and Offsite Tactics</b></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">LETS TALK</a>"
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Competitor Benchmarking</li><li class=\"list-group-item\">Acquire &gt; Engage &gt; Convert</li><li class=\"list-group-item\">Onsite and Offsite Tactics</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"#content3-1k\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">LETS TALK</a>"
         },
         {
           "_styles": {
@@ -464,7 +500,9 @@
             },
             "H3": {
               "font-size": "60px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
             "P": {
               "color": "#e67e22",
@@ -520,9 +558,9 @@
           "title": "CONTACT FORM",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
           "form": {
-            "action": "emarketinghut@gmail.com",
+            "action": "digital@netmatters.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you, a member of our team will be in touch shortly."
             },
             "fields": {
               "name": {
@@ -634,8 +672,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
-              "font-family": "'PT Sans', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
             },
             ".link": {
               "font-size": "1.25rem"
@@ -685,9 +723,9 @@
             "bgColor": "#936faf",
             "fontSize": "1.25",
             "fontName": {
-              "name": "PT Sans",
-              "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
-              "css": "'PT Sans', sans-serif"
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -715,7 +753,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Creations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Approach</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"mdi-notification-phone-forwarded mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px;\"></span>(01603) 515 007</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#team1-1\">Creations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#content3-2e\">Approach</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#pricing-table1-2d\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:01603515007\"><span class=\"mdi-notification-phone-forwarded mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px;\"></span>(01603) 515 007</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#content3-1k\">Contact</a></li>"
         }
       ]
     }
