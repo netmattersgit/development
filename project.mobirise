@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 86,
+    "uniqCompNum": 87,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -251,6 +251,33 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "60px"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-2e",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#333333",
+            "showMeta": true
+          },
+          "title": "Our 3-Step Process is simple...",
+          "meta": "Enables Us to Create Beautifully Effective Websites<br>"
+        },
+        {
+          "_styles": {
             ".mbr-section-title": {
               "font-weight": "700",
               "text-align": "center",
@@ -286,7 +313,7 @@
           "_name": "features15",
           "_anchor": "features15-k",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "0",
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": false,
@@ -300,8 +327,8 @@
             "overlay": true,
             "overlayOpacity": "0.7",
             "overlayColor": "#000000",
-            "showTitle": true,
-            "showImages": true,
+            "showTitle": false,
+            "showImages": false,
             "columns": 3,
             "showTitles": true,
             "ShowTexts": true

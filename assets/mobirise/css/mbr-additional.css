@@ -746,6 +746,17 @@ blockquote {
 #team1-1 .text4 {
   color: #ffffff;
 }
+#content3-2e .mbr-section-title,
+#content3-2e .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-2e H3 {
+  color: #ffffff;
+  font-size: 60px;
+}
+#content3-2e P {
+  color: #ffffff;
+}
 #features15-k .mbr-section-title {
   font-weight: 700;
   text-align: center;
