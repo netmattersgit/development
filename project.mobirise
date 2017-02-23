@@ -137,7 +137,7 @@
               "font-size": "36px"
             },
             "H1": {
-              "font-size": "72px",
+              "font-size": "60px",
               "color": "#ffffff"
             },
             "H3": {
@@ -254,7 +254,8 @@
             ".mbr-section-title": {
               "font-weight": "700",
               "text-align": "center",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "60px"
             },
             ".display-6": {
               "text-transform": "none",
@@ -338,7 +339,8 @@
               "font-size": "48px"
             },
             "H1": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "60px"
             }
           },
           "_tags": [
@@ -406,7 +408,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "84px",
+              "font-size": "60px",
               "color": "#000000"
             },
             "P": {

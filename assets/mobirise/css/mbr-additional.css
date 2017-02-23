@@ -722,7 +722,7 @@ blockquote {
   font-size: 36px;
 }
 #team1-1 H1 {
-  font-size: 72px;
+  font-size: 60px;
   color: #ffffff;
 }
 #team1-1 H3 {
@@ -750,6 +750,7 @@ blockquote {
   font-weight: 700;
   text-align: center;
   color: #ffffff;
+  font-size: 60px;
 }
 #features15-k .display-6 {
   text-transform: none;
@@ -779,13 +780,14 @@ blockquote {
 }
 #pricing-table1-2d H1 {
   color: #ffffff;
+  font-size: 60px;
 }
 #content3-1k .mbr-section-title,
 #content3-1k .mbr-section-subtitle {
   text-align: center;
 }
 #content3-1k H3 {
-  font-size: 84px;
+  font-size: 60px;
   color: #000000;
 }
 #content3-1k P {
