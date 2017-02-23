@@ -83,7 +83,7 @@
                 "showText": true,
                 "text": "For business looking to target people on the go.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>creations</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"#team1-1\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>creations</a> "
               },
               {
                 "active": false,
@@ -99,7 +99,7 @@
                 "showText": true,
                 "text": "For business looking to sell goods over the internet.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>creations</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"#team1-1\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>creations</a> "
               }
             ],
             "fullScreen": true,
