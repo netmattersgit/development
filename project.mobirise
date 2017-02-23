@@ -202,7 +202,7 @@
           },
           "person1": "3W",
           "subtitle1": "Architects",
-          "caption1": "3W is an award-winning, design-led architectural practice with offices in London and Bristol.&nbsp;<span style=\"font-size: 1rem; line-height: 1.5;\">The practice has extensive experience of varying sectors&nbsp;</span><br>",
+          "caption1": "3W is an award-winning, design-led architectural practice with offices in London and Bristol.&nbsp;<span style=\"font-size: 1rem; line-height: 1.5;\">The practice has extensive experience of&nbsp;</span><br>",
           "media2": {
             "image": {
               "active": true,
@@ -217,10 +217,10 @@
           },
           "person2": "Northern Diver",
           "subtitle2": "Online Retailer",
-          "caption2": "Northern Diver's reputation as one of the world's elite drysuit manufacturers and diving equipment manufacturers has its roots in our genuine love of diving.",
+          "caption2": "Northern Diver's reputation as one of the world's elite drysuit manufacturers and diving equipment manufacturers has its roots in our genuine",
           "person3": "Corkers Crisps",
           "subtitle3": "Food Manufacturers",
-          "caption3": "At Corkers, we do things differently. We even have our very own potato – the Naturalo potato is only grown on our farm in the rich peaty Cambridgeshire fens. It is the perfect frying potato and its what gives Corkers their unique flavour and crunch.",
+          "caption3": "At Corkers, we do things differently. We even have our very own potato – the Naturalo potato is only grown on our farm in the.",
           "media3": {
             "image": {
               "active": true,
@@ -235,7 +235,7 @@
           },
           "person4": "Farnell Clarke",
           "subtitle4": "Chartered Accountants",
-          "caption4": "Farnell Clarke is an award winning national firm of chartered certified accountants practice working from offices in Norwich, London and Lowestoft. As you would expect, our team is experienced and well qualified: we know our business and...",
+          "caption4": "Farnell Clarke is an award winning national firm of chartered certified accountants practice working from offices in Norwich",
           "media4": {
             "image": {
               "active": true,
@@ -291,7 +291,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/features/01.jpg",
-            "bgColor": "#705979",
+            "bgColor": "#333333",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
