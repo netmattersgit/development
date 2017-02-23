@@ -190,7 +190,7 @@
             "bgItem2": "#223c7b",
             "bgItem3": "#359fd3",
             "bgItem4": "#b54580",
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": false,
@@ -279,7 +279,7 @@
           "_anchor": "buttons1-2f",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "5",
             "bgColor": "#dddddd"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#content3-2e\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Approach</a> "
@@ -308,7 +308,7 @@
           "_name": "content3",
           "_anchor": "content3-2e",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "5",
             "paddingBottom": 1,
             "bgColor": "#333333",
             "showMeta": true
@@ -405,7 +405,7 @@
           "_anchor": "buttons1-2g",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "5",
             "bgColor": "#333333"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#pricing-table1-2d\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Services</a> "
@@ -440,7 +440,7 @@
           "_name": "pricing-table1",
           "_anchor": "pricing-table1-2d",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": false,
@@ -518,7 +518,7 @@
           "_name": "content3",
           "_anchor": "content3-1k",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "5",
             "paddingBottom": "0",
             "bgColor": "#333333",
             "showMeta": true
