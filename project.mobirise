@@ -332,7 +332,7 @@
               "color": "#fff"
             },
             ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#253546"
+              "color": "#ffffff"
             },
             ".mbr-price-figure": {
               "font-size": "48px"
@@ -359,8 +359,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#222",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#2c3e50",
             "showTitle": true,
             "showSubtitle": true,
             "firstType": "",
@@ -370,7 +370,7 @@
             "fourthType": ""
           },
           "title": "Our services, whatever your business...&nbsp;",
-          "subtitle": " This new-found knowledge may then be used by engineers to create new tools and machines.",
+          "subtitle": "&nbsp;",
           "label1": "POPULAR",
           "title1": "Stylish",
           "currency1": "",
