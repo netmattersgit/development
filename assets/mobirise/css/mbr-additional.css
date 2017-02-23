@@ -707,31 +707,44 @@ blockquote {
   font-family: 'Ubuntu', sans-serif;
 }
 /*end colorM*/
-#content3-1c .mbr-section-title,
-#content3-1c .mbr-section-subtitle {
-  text-align: center;
-}
-#content3-1c H3 {
-  font-size: 84px;
-}
 #team1-1 .title1 {
   font-size: 36px;
+  color: #ffffff;
 }
 #team1-1 .title2 {
   font-size: 36px;
 }
 #team1-1 .title3 {
   font-size: 36px;
+  color: #ffffff;
 }
 #team1-1 .title4 {
   font-size: 36px;
 }
-#content3-1i .mbr-section-title,
-#content3-1i .mbr-section-subtitle {
-  text-align: center;
+#team1-1 H1 {
+  font-size: 72px;
+  color: #ffffff;
 }
-#content3-1i H3 {
-  font-size: 84px;
+#team1-1 H3 {
+  color: #ffffff;
+}
+#team1-1 .subtitle1 {
+  color: #ffffff;
+}
+#team1-1 .text1 {
+  color: #ffffff;
+}
+#team1-1 .subtitle3 {
+  color: #ffffff;
+}
+#team1-1 .text3 {
+  color: #ffffff;
+}
+#team1-1 .subtitle4 {
+  color: #ffffff;
+}
+#team1-1 .text4 {
+  color: #ffffff;
 }
 #features15-k .mbr-section-title {
   font-weight: 700;
@@ -749,39 +762,23 @@ blockquote {
 }
 #features15-k P {
   font-size: 20px;
-  text-align: center;
+  text-align: left;
 }
 #features15-k .display-5 {
   font-size: 48px;
-  text-align: center;
+  text-align: left;
 }
-#content3-1j .mbr-section-title,
-#content3-1j .mbr-section-subtitle {
-  text-align: center;
-}
-#content3-1j H3 {
-  font-size: 84px;
-  color: #333333;
-}
-#pricing-table1-m .mbr-section__container .mbr-section-title {
+#pricing-table1-2d .mbr-section__container .mbr-section-title {
   color: #fff;
 }
-#pricing-table1-m .mbr-section__container .mbr-section-subtitle {
+#pricing-table1-2d .mbr-section__container .mbr-section-subtitle {
+  color: #253546;
+}
+#pricing-table1-2d .mbr-price-figure {
+  font-size: 48px;
+}
+#pricing-table1-2d H1 {
   color: #ffffff;
-  text-align: right;
-}
-#pricing-table1-m H1 {
-  color: #ffffff;
-}
-#pricing-table1-m .mbr-price-figure {
-  font-size: 21px;
-  text-align: center;
-}
-#pricing-table1-m .mbr-price-term {
-  font-size: 60px;
-}
-#pricing-table1-m UL {
-  text-align: center;
 }
 #content3-1k .mbr-section-title,
 #content3-1k .mbr-section-subtitle {
@@ -789,25 +786,28 @@ blockquote {
 }
 #content3-1k H3 {
   font-size: 84px;
-  color: #333333;
+  color: #000000;
 }
 #content3-1k P {
-  color: #333333;
+  color: #e67e22;
+  font-size: 60px;
 }
 #content3-1k B {
-  color: #333333;
+  color: #000000;
 }
-#contacts3-1q .form-control-label {
+#form1-20 .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#form1-20 .form-control-label {
   color: undefined;
 }
-#contacts3-1q .mbr-section-subtitle {
-  color: #333333;
-}
-#contacts3-1q .mbr-section-title {
-  color: #333333;
-}
-#footer2-1p .mbr-section-text {
+#footer1-1z .mbr-section-subtitle,
+#footer1-1z .mbr-section-text {
   color: #fff;
+}
+#footer1-1z .mbr-section-subtitle {
+  margin-bottom: 20px;
+  margin-top: 0;
 }
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
