@@ -707,6 +707,32 @@ blockquote {
   font-family: 'Ubuntu', sans-serif;
 }
 /*end colorM*/
+#content3-1c .mbr-section-title,
+#content3-1c .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-1c H3 {
+  font-size: 84px;
+}
+#team1-1 .title1 {
+  font-size: 36px;
+}
+#team1-1 .title2 {
+  font-size: 36px;
+}
+#team1-1 .title3 {
+  font-size: 36px;
+}
+#team1-1 .title4 {
+  font-size: 36px;
+}
+#content3-1i .mbr-section-title,
+#content3-1i .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-1i H3 {
+  font-size: 84px;
+}
 #features15-k .mbr-section-title {
   font-weight: 700;
   text-align: center;
@@ -723,10 +749,19 @@ blockquote {
 }
 #features15-k P {
   font-size: 20px;
+  text-align: center;
 }
 #features15-k .display-5 {
   font-size: 48px;
-  text-align: left;
+  text-align: center;
+}
+#content3-1j .mbr-section-title,
+#content3-1j .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-1j H3 {
+  font-size: 84px;
+  color: #333333;
 }
 #pricing-table1-m .mbr-section__container .mbr-section-title {
   color: #fff;
@@ -748,19 +783,31 @@ blockquote {
 #pricing-table1-m UL {
   text-align: center;
 }
-#form1-11 .mbr-section-subtitle {
-  text-transform: uppercase;
-  color: #ffffff;
-  font-size: 30px;
+#content3-1k .mbr-section-title,
+#content3-1k .mbr-section-subtitle {
+  text-align: center;
 }
-#form1-11 .form-control-label {
+#content3-1k H3 {
+  font-size: 84px;
+  color: #333333;
+}
+#content3-1k P {
+  color: #333333;
+}
+#content3-1k B {
+  color: #333333;
+}
+#contacts3-1q .form-control-label {
   color: undefined;
 }
-#form1-11 .mbr-section-title {
-  color: #ffffff;
+#contacts3-1q .mbr-section-subtitle {
+  color: #333333;
 }
-#form1-11 .mbr-section-text {
-  color: #ffffff;
+#contacts3-1q .mbr-section-title {
+  color: #333333;
+}
+#footer2-1p .mbr-section-text {
+  color: #fff;
 }
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;

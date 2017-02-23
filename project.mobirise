@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 48,
+    "uniqCompNum": 63,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -112,6 +112,29 @@
           "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "84px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1c",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#ecf0f1",
+            "showMeta": true
+          },
+          "title": "Some of our creations...",
+          "meta": "Whether you are looking to showcase your services, brand, products or even your tools, chances are we've already done it.&nbsp;"
+        },
+        {
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
@@ -121,6 +144,20 @@
             "Theme"
           ],
           "_name": "team1",
+          "_styles": {
+            ".title1": {
+              "font-size": "36px"
+            },
+            ".title2": {
+              "font-size": "36px"
+            },
+            ".title3": {
+              "font-size": "36px"
+            },
+            ".title4": {
+              "font-size": "36px"
+            }
+          },
           "_anchor": "team1-1",
           "_params": {
             "rows": "2",
@@ -128,7 +165,7 @@
             "bgItem2": "#ffc80a",
             "bgItem3": "#d2dde4",
             "bgItem4": "#212121",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": false,
@@ -142,8 +179,8 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true
+            "showTitle": false,
+            "showSubtitle": false
           },
           "title": "Some of our Creations",
           "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
@@ -161,7 +198,7 @@
           },
           "person1": "3W",
           "subtitle1": "Architects",
-          "caption1": "3W is an award-winning, design-led architectural practice with offices in London and Bristol.&nbsp;<span style=\"font-size: 1rem; line-height: 1.5;\">The practice has extensive experience of varying sectors including residential, very sheltered housing, social housing, commercial office, education, retail and leisure.</span><br>",
+          "caption1": "3W is an award-winning, design-led architectural practice with offices in London and Bristol.&nbsp;<span style=\"font-size: 1rem; line-height: 1.5;\">The practice has extensive experience of varying sectors&nbsp;</span><br>",
           "media2": {
             "image": {
               "active": true,
@@ -176,7 +213,7 @@
           },
           "person2": "Northern Diver",
           "subtitle2": "Online Retailer",
-          "caption2": "Northern Diver's reputation as one of the world's elite drysuit manufacturers and diving equipment manufacturers has its roots in our genuine love of diving. It's only because we understand divers’ needs for both made to measure and off-the-peg drysuits, as well as everything else.",
+          "caption2": "Northern Diver's reputation as one of the world's elite drysuit manufacturers and diving equipment manufacturers has its roots in our genuine love of diving.",
           "person3": "Corkers Crisps",
           "subtitle3": "Food Manufacturers",
           "caption3": "At Corkers, we do things differently. We even have our very own potato – the Naturalo potato is only grown on our farm in the rich peaty Cambridgeshire fens. It is the perfect frying potato and its what gives Corkers their unique flavour and crunch.",
@@ -194,7 +231,7 @@
           },
           "person4": "Farnell Clarke",
           "subtitle4": "Chartered Accountants",
-          "caption4": "Farnell Clarke is an award winning national firm of chartered certified accountants practice working from offices in Norwich, London and Lowestoft. As you would expect, our team is experienced and well qualified: we know our business and are committed to delivering a professional service.",
+          "caption4": "Farnell Clarke is an award winning national firm of chartered certified accountants practice working from offices in Norwich, London and Lowestoft. As you would expect, our team is experienced and well qualified: we know our business and...",
           "media4": {
             "image": {
               "active": true,
@@ -214,13 +251,36 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-14",
+          "_anchor": "buttons1-1l",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Our Approach</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Aproach</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "84px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1i",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Our approach is simple...",
+          "meta": "Our 3-Step Process Enables Us to Create Beautifully Effective Websites.<br>"
         },
         {
           "_styles": {
@@ -239,11 +299,12 @@
               "margin-top": "40px"
             },
             "P": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "center"
             },
             ".display-5": {
               "font-size": "48px",
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "title1": "Bootstrap 4",
@@ -272,7 +333,7 @@
             "overlayOpacity": "0.7",
             "overlayColor": "#000000",
             "showTitle": true,
-            "showImages": true,
+            "showImages": false,
             "columns": 3,
             "showTitles": true,
             "ShowTexts": true
@@ -299,18 +360,28 @@
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app."
         },
         {
-          "alias": "colorm/components",
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "84px",
+              "color": "#333333"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-13",
+          "_name": "content3",
+          "_anchor": "content3-1j",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#434350"
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Our Services</a> "
+          "title": "Our services focus on you...",
+          "meta": "By <b>John Smith</b> posted July 20, 2016"
         },
         {
           "_styles": {
@@ -355,7 +426,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#9b59b6",
-            "showTitle": true,
+            "showTitle": false,
             "showSubtitle": false,
             "firstType": "",
             "showButtons": true,
@@ -396,47 +467,83 @@
         },
         {
           "_styles": {
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase",
-              "color": "#ffffff",
-              "font-size": "30px"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
+            "H3": {
+              "font-size": "84px",
+              "color": "#333333"
+            },
+            "P": {
+              "color": "#333333"
+            },
+            "B": {
+              "color": "#333333"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1k",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#bbbbbb",
+            "showMeta": true
+          },
+          "title": "Our team is ready...",
+          "meta": "By <b>John Smith</b> posted July 20, 2016"
+        },
+        {
+          "_styles": {
             ".form-control-label": {},
-            ".mbr-section-title": {
-              "color": "#ffffff"
+            ".mbr-section-subtitle": {
+              "color": "#333333"
             },
-            ".mbr-section-text": {
-              "color": "#ffffff"
+            ".mbr-section-title": {
+              "color": "#333333"
             }
           },
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "form1",
-          "_anchor": "form1-11",
+          "_name": "contacts3",
+          "_anchor": "contacts3-1q",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1028.jpg",
-            "bgColor": "#ecf0f1",
-            "bgColorRadio": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#bbbbbb",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000000",
-            "showSubtitle": true,
-            "showTitle": true,
-            "showText": true
+            "overlayOpacity": 0.9,
+            "overlayColor": "#ecf0f1",
+            "showCat1": true,
+            "showCat2": true,
+            "showCat3": true,
+            "showText": false,
+            "showButtons": true
           },
-          "subtitle": "Let's catch up for a coffee",
-          "title": "<b>(01603) 515 007</b>",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
+          "cat1": "address",
+          "title1": "11 Penfold Drive,&nbsp;<span style=\"font-size: 1.5rem; line-height: 1.1em;\">Wymondham,&nbsp;</span><span style=\"font-size: 1.5rem; line-height: 1.1em;\">Norwich</span><div>Norfolk&nbsp;</div><div>NR18 0WZ</div>",
+          "cat2": "phone",
+          "title2": "(01603) 515 007",
+          "cat3": "email",
+          "title3": "info@netmatters.com",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos sunt, dolorum similique facere, vitae ea quod, velit est, maiores cupiditate repudiandae! Laboriosam, aliquid ea a magnam sunt eum corrupti totam rem alias dolor ipsum dignissimos.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-skype\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin\"></span></a>",
           "form": {
-            "action": "emarketinghut@gmail.com",
+            "action": "digital@netmatters.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you, a member of our team will be in touch shorty!"
             },
             "fields": {
               "name": {
@@ -451,7 +558,7 @@
               },
               "phone": {
                 "title": "Phone",
-                "visible": true,
+                "visible": false,
                 "customTitle": "Phone"
               },
               "message": {
@@ -460,10 +567,33 @@
               }
             }
           },
-          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
-          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
-          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"fa fa-arrow-right mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a>"
+          "formButton": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-1p",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2013&nbsp;Netmatters Ltd."
         },
         {
           "_styles": {
