@@ -169,7 +169,7 @@
             "bgItem2": "#223c7b",
             "bgItem3": "#359fd3",
             "bgItem4": "#b54580",
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": false,
@@ -257,8 +257,8 @@
           "_name": "buttons1",
           "_anchor": "buttons1-2f",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "4",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Approach</a> "
@@ -377,7 +377,7 @@
           "_anchor": "buttons1-2g",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "5",
+            "paddingBottom": "2",
             "bgColor": "#333333"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Services</a> "
