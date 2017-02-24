@@ -47,6 +47,17 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "25px"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -67,7 +78,7 @@
                 "showText": true,
                 "text": "For business looking to make a strong impression.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"#team1-1\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Creations</a> "
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"#team1-1\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Works</a> "
               },
               {
                 "active": false,
@@ -83,7 +94,7 @@
                 "showText": true,
                 "text": "For business looking to target people on the go.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"#team1-1\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>creations</a> "
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"#team1-1\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Works</a> "
               },
               {
                 "active": false,
@@ -99,7 +110,7 @@
                 "showText": true,
                 "text": "For business looking to sell goods over the internet.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"#team1-1\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>creations</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"#team1-1\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-arrow-down mbr-iconfont mbr-iconfont-btn\"></span>Works</a> "
               }
             ],
             "fullScreen": true,
@@ -109,18 +120,7 @@
           "_anchor": "slider-b",
           "articleLayout": false,
           "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrow-left.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">",
-          "_styles": {
-            ".mbr-section-text": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "25px"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
-            }
-          }
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">"
         },
         {
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
@@ -207,7 +207,7 @@
             "showTitle": true,
             "showSubtitle": true
           },
-          "title": "Some of our Creations...",
+          "title": "Some of our works...",
           "subtitle": "Whether you are looking to showcase your services, brand, products or even your tools, we have the skills.",
           "media1": {
             "image": {
@@ -309,7 +309,7 @@
           "_anchor": "content3-2e",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#333333",
             "showMeta": true
           },
@@ -753,7 +753,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#team1-1\">Creations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#content3-2e\">Approach</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#pricing-table1-2d\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:01603515007\"><span class=\"mdi-notification-phone-forwarded mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px;\"></span>(01603) 515 007</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#content3-1k\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#team1-1\">Works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#content3-2e\">Approach</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#pricing-table1-2d\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:01603515007\"><span class=\"mdi-notification-phone-forwarded mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px;\"></span>(01603) 515 007</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#content3-1k\">Contact</a></li>"
         }
       ]
     }
