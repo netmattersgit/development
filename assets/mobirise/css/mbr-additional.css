@@ -876,11 +876,11 @@ blockquote {
   font-family: 'Ubuntu', sans-serif;
 }
 #menu-3 .link {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 #menu-3 .dropdown-item,
 #menu-3 .nav-dropdown-sm .link {
-  font-size: 1.354rem;
+  font-size: 1.083rem;
 }
 #menu-3 .link:hover,
 #menu-3 .link:focus {

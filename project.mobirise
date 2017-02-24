@@ -676,10 +676,10 @@
               "font-family": "'Ubuntu', sans-serif"
             },
             ".link": {
-              "font-size": "1.25rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.354rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -721,7 +721,7 @@
           "_anchor": "menu-3",
           "_params": {
             "bgColor": "#936faf",
-            "fontSize": "1.25",
+            "fontSize": "1",
             "fontName": {
               "name": "Ubuntu",
               "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
