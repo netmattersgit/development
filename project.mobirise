@@ -222,8 +222,8 @@
             }
           },
           "person1": "3W",
-          "subtitle1": "Architects",
-          "caption1": "3W is an award-winning, design-led architectural practice with offices in London and Bristol. For this project our main focus was on the aesthetics.<br>",
+          "subtitle1": "Architects<br>3w.org",
+          "caption1": "The primary focus of this project was to create a sleek showcase-style website for 3W; an award-winning, design-led architectural practice, based in London and Bristol.<br>",
           "media2": {
             "image": {
               "active": true,
@@ -237,11 +237,11 @@
             }
           },
           "person2": "Northern Diver",
-          "subtitle2": "Online Retailer",
-          "caption2": "Northern Diver's reputation as one of the world's elite drysuit and diving equipment manufacturers and their core business focuses on sales, because of this, user journey and conversions became our primary goal.",
+          "subtitle2": "Online Retailer<br>ndiver.com",
+          "caption2": "Streamlining the user journey to turn traffic into sales was the core focus of this ecommerce build for Northern Diver - one of the world's elite drysuit and diving equipment manufacturers.",
           "person3": "Corkers Crisps",
-          "subtitle3": "Food Manufacturers",
-          "caption3": "Corkers is one of the UK leading manufacturers of potato crisps, and as such the main aim of this site was the Brand itself.",
+          "subtitle3": "Food Manufacturers<br>corkerscrisps.co.uk",
+          "caption3": "Reinforcing brand trust and awareness was among the main aims of this light-hearted website for local hand-cooked crisp firm, Corkers.",
           "media3": {
             "image": {
               "active": true,
@@ -255,8 +255,8 @@
             }
           },
           "person4": "Farnell Clarke",
-          "subtitle4": "Chartered Accountants",
-          "caption4": "Farnell Clarke is an award winning national firm of chartered certified accountants whose business relies &nbsp;on the help they provide their clients, and always available and accessible service became &nbsp; our top priority.",
+          "subtitle4": "Chartered Accountants<br>farnellclarke.co.uk",
+          "caption4": "Information management, through a highly integrated and feature-rich backend cloud based solution, was the prime objective of the work we carried out for Farnell Clarke, one of the region's most efficiency-driven accountancy firms.",
           "media4": {
             "image": {
               "active": true,
@@ -388,11 +388,11 @@
             }
           },
           "subtitle1": "Define",
-          "caption1": "Holding text area yet to be defined, holding text area yet to be defined, holding text area yet to be defined, holding.",
+          "caption1": "We identify what targets and objectives are important to your business, which drives the core framework and functionality of the website.",
           "subtitle2": "Design",
-          "caption2": "Holding text area yet to be defined, holding text area yet to be defined, holding text area yet to be defined, holding text ar.",
+          "caption2": "Based on your business objectives, we will work with you to design a website that delivers results, is simple to use and looks great.",
           "subtitle3": "Deploy",
-          "caption3": "Holding text area yet to be defined, holding text area yet to be defined, holding text area yet to be defined, holding text.",
+          "caption3": "The website build uses industry-standard project methodologies to deliver key agreed milestone stages on time - and within budget.",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app."
         },
