@@ -849,13 +849,8 @@ blockquote {
 #form1-20 .form-control-label {
   color: undefined;
 }
-#footer1-1z .mbr-section-subtitle,
-#footer1-1z .mbr-section-text {
+#footer2-2i .mbr-section-text {
   color: #fff;
-}
-#footer1-1z .mbr-section-subtitle {
-  margin-bottom: 20px;
-  margin-top: 0;
 }
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;

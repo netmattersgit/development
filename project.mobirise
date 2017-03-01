@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 90,
+    "uniqCompNum": 91,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -223,7 +223,7 @@
           },
           "person1": "3W",
           "subtitle1": "Architects",
-          "caption1": "3W is an award-winning, design-led architectural practice with offices in London and Bristol.&nbsp;<span style=\"font-size: 1rem; line-height: 1.5;\">The practice has extensive experience of&nbsp;</span><br>",
+          "caption1": "3W is an award-winning, design-led architectural practice with offices in London and Bristol. For this project our main focus was on the aesthetics.<br>",
           "media2": {
             "image": {
               "active": true,
@@ -238,10 +238,10 @@
           },
           "person2": "Northern Diver",
           "subtitle2": "Online Retailer",
-          "caption2": "Northern Diver's reputation as one of the world's elite drysuit manufacturers and diving equipment manufacturers has its roots in our genuine",
+          "caption2": "Northern Diver's reputation as one of the world's elite drysuit and diving equipment manufacturers and their core business focuses on sales, because of this, user journey and conversions became our primary goal.",
           "person3": "Corkers Crisps",
           "subtitle3": "Food Manufacturers",
-          "caption3": "At Corkers, we do things differently. We even have our very own potato – the Naturalo potato is only grown on our farm in the.",
+          "caption3": "Corkers is one of the UK leading manufacturers of potato crisps, and as such the main aim of this site was the Brand itself.",
           "media3": {
             "image": {
               "active": true,
@@ -256,7 +256,7 @@
           },
           "person4": "Farnell Clarke",
           "subtitle4": "Chartered Accountants",
-          "caption4": "Farnell Clarke is an award winning national firm of chartered certified accountants practice working from offices in Norwich",
+          "caption4": "Farnell Clarke is an award winning national firm of chartered certified accountants whose business relies &nbsp;on the help they provide their clients, and always available and accessible service became &nbsp; our top priority.",
           "media4": {
             "image": {
               "active": true,
@@ -591,70 +591,29 @@
         },
         {
           "_styles": {
-            ".mbr-section-subtitle, .mbr-section-text": {
+            ".mbr-section-text": {
               "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "margin-bottom": "20px",
-              "margin-top": "0"
             }
           },
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_anchor": "footer1-1z",
+          "_name": "footer2",
+          "_anchor": "footer2-2i",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#433847",
+            "bgColor": "#403744",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#444444",
-            "logo": false,
-            "showTitles": true,
-            "showButtons": false
+            "overlayColor": "#444444"
           },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title1": "products",
-          "text11": "Popular",
-          "text12": "Trending",
-          "text13": "Catalog",
-          "text14": "Awesome",
-          "text15": "Best",
-          "title2": "company",
-          "text21": "Press",
-          "text22": "Features",
-          "text23": "Mission",
-          "text24": "Strategy",
-          "text25": "Works",
-          "title3": "Help",
-          "text31": "Support",
-          "text32": "Developers",
-          "text33": "Service",
-          "text34": "Starter pack",
-          "text35": "FAQ",
-          "followtext": "follow us",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "text": "11 Penfold Drive,&nbsp;Wymondham,&nbsp;Norwich,&nbsp;Norfolk,&nbsp;NR18 0WZ<br>Copyright (c) 2017 Netmatters Ltd."
+          "text": "11 Penfold Drive, Wymondham, Norwich, Norfolk, NR18 0WZ<br>Copyright (c) 2017 Netmatters Ltd.<br>(<a href=\"https://www.netmatters.co.uk/home-old\">Legacy Website</a>)"
         },
         {
           "_styles": {
@@ -753,7 +712,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#team1-1\">Works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#content3-2e\">Approach</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#pricing-table1-2d\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:01603515007\"><span class=\"mdi-notification-phone-forwarded mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px;\"></span>(01603) 515 007</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#content3-1k\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#team1-1\">Portfolio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#content3-2e\">Approach</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#pricing-table1-2d\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:01603515007\"><span class=\"mdi-notification-phone-forwarded mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px;\"></span>(01603) 515 007</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#content3-1k\">Contact</a></li>"
         }
       ]
     }
