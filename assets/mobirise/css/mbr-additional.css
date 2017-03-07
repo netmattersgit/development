@@ -922,6 +922,7 @@ blockquote {
 }
 
 
+
 #call3-30 .display-1 {
   font-weight: 700;
   color: #fff;
@@ -934,6 +935,21 @@ blockquote {
 #call3-30 .mbr-section-title {
   font-family: 'Ubuntu', sans-serif;
 }
+#call3-30 .mbr-section-subtitle {
+  color: #ffffff;
+}
+#features8-34 .lead {
+  color: #9fa3a7;
+}
+#features8-34 .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features7-33 .lead {
+  color: #9fa3a7;
+}
+#features7-33 .mbr-section-subtitle {
+  text-transform: uppercase;
+}
 #features8-2u .lead {
   color: #9fa3a7;
 }
@@ -945,6 +961,34 @@ blockquote {
 }
 #features7-2v .mbr-section-subtitle {
   text-transform: uppercase;
+}
+#features8-31 .lead {
+  color: #9fa3a7;
+}
+#features8-31 .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#content3-35 .mbr-section-title,
+#content3-35 .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-35 H3 {
+  font-size: 60px;
+  color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
+}
+#content3-35 P {
+  color: #e67e22;
+  font-size: 60px;
+}
+#content3-35 B {
+  color: #000000;
+}
+#form1-36 .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#form1-36 .form-control-label {
+  color: undefined;
 }
 #footer2-2s .mbr-section-text {
   color: #fff;
