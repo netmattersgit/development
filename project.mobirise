@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NM Dev",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 108,
+    "uniqCompNum": 109,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -722,33 +722,32 @@
         {
           "_styles": {
             ".display-1": {
-              "font-weight": "700"
+              "font-weight": "700",
+              "color": "#fff"
             },
             ".lead": {
               "color": "#fff",
               "text-transform": "uppercase",
               "margin-bottom": "0"
             },
-            ".mbr-section-subtitle": {
-              "text-align": "center"
-            },
             ".mbr-section-title": {
-              "text-align": "center"
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
           },
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-2z",
+          "_name": "call3",
+          "_anchor": "call3-30",
           "_params": {
-            "buttonAlign": "center",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/3w-situ-600x390.jpg",
-            "bgColor": "#16a085",
+            "bgColor": "#60549e",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
@@ -756,15 +755,14 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.9,
-            "overlayColor": "#8e44ad",
+            "overlayColor": "#60549e",
             "showText": true,
             "showTitle": true,
             "showButtons": true
           },
           "text": "Develop fully responsive, mobile-ready websites",
-          "title": "BEAUTIFUL<br>MOBILE<br>WEBSITES",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\">download it</a>",
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
+          "title": "BEAUTIFUL MOBILE WEBSITES",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\">see live demo</a>"
         },
         {
           "_styles": {

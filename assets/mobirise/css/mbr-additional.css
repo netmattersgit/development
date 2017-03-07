@@ -921,19 +921,18 @@ blockquote {
   color: #936faf!important;
 }
 
-#header3-2z .display-1 {
+
+#call3-30 .display-1 {
   font-weight: 700;
+  color: #fff;
 }
-#header3-2z .lead {
+#call3-30 .lead {
   color: #fff;
   text-transform: uppercase;
   margin-bottom: 0;
 }
-#header3-2z .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2z .mbr-section-title {
-  text-align: center;
+#call3-30 .mbr-section-title {
+  font-family: 'Ubuntu', sans-serif;
 }
 #features8-2u .lead {
   color: #9fa3a7;
