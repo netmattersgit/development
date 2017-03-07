@@ -920,3 +920,101 @@ blockquote {
 #menu-3 .dropdown-item[aria-expanded="true"] {
   color: #936faf!important;
 }
+
+#header3-2z .display-1 {
+  font-weight: 700;
+}
+#header3-2z .lead {
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+#header3-2z .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2z .mbr-section-title {
+  text-align: center;
+}
+#features8-2u .lead {
+  color: #9fa3a7;
+}
+#features8-2u .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features7-2v .lead {
+  color: #9fa3a7;
+}
+#features7-2v .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#footer2-2s .mbr-section-text {
+  color: #fff;
+}
+#menu-2t .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2t .navbar-caption {
+  color: #ffffff;
+}
+#menu-2t .navbar-toggler {
+  color: #ffffff;
+}
+#menu-2t .close-icon::before,
+#menu-2t .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-2t .link,
+#menu-2t .dropdown-item {
+  color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
+}
+#menu-2t .link {
+  font-size: 1rem;
+}
+#menu-2t .dropdown-item,
+#menu-2t .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-2t .link:hover,
+#menu-2t .link:focus {
+  color: #936faf;
+}
+#menu-2t .dropdown-item:hover::before,
+#menu-2t .dropdown-item:focus::before {
+  background: #936faf;
+}
+#menu-2t .dropdown-item:hover,
+#menu-2t .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-2t .link[aria-expanded="true"],
+#menu-2t .dropdown-menu {
+  background: #7a5497;
+}
+#menu-2t .nav-dropdown-sm .link:focus,
+#menu-2t .nav-dropdown-sm .link:hover,
+#menu-2t .nav-dropdown-sm .dropdown-item:focus,
+#menu-2t .nav-dropdown-sm .dropdown-item:hover {
+  background: #8c65aa!important;
+}
+#menu-2t .navbar,
+#menu-2t .nav-dropdown-sm,
+#menu-2t .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2t .nav-dropdown-sm .dropdown-menu {
+  background: #936faf;
+}
+#menu-2t .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-2t .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2t .bg-color.transparent.opened .link:hover,
+#menu-2t .bg-color.transparent.opened .link:focus {
+  color: #936faf;
+}
+#menu-2t .link[aria-expanded="true"],
+#menu-2t .dropdown-item[aria-expanded="true"] {
+  color: #936faf!important;
+}
