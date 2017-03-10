@@ -720,6 +720,12 @@ blockquote {
   font-family: 'Ubuntu', sans-serif;
 }
 /*end colorM*/
+#custom-html-39 {
+  /* Type valid CSS here */
+}
+#custom-html-39 .my-image {
+  width: 100%;
+}
 #slider-b .mbr-section-text {
   font-family: 'Open Sans', sans-serif;
   font-size: 25px;
@@ -986,9 +992,6 @@ blockquote {
 }
 #form1-36 .mbr-section-subtitle {
   text-transform: uppercase;
-}
-#form1-36 .form-control-label {
-  color: undefined;
 }
 #footer2-2s .mbr-section-text {
   color: #fff;
